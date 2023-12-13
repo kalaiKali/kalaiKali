@@ -31,3 +31,4 @@ Libraries: [![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat&logo=p
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-green?style=flat&logo=nltk&logoColor=white)](https://www.nltk.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-blue?style=flat&logo=hugging%20face&logoColor=white)](https://huggingface.co/transformers/)
+[![Land Chain](https://img.shields.io/badge/Land%20Chain-Latest-brightgreen?style=flat&logo=placeholder&logoColor=white)](https://example.com/landchain)
