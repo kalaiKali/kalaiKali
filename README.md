@@ -3,7 +3,7 @@
 
 **I am Kalaiarasi Kaliappan, currently pursuing my majors in Data Science**
 
-**Areas of Interest: ** Large Language Models
+**Areas of Interest:** Large Language Models
 
 Programming Language: [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![MS SQL](https://img.shields.io/badge/MS%20SQL-red?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
