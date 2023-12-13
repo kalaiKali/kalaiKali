@@ -1,24 +1,15 @@
 ### Hi there 👋
 
 
-**I am Kalaiarasi Kaliappan**
+**I am Kalaiarasi Kaliappan, currently pursuing my majors in Data Science**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Areas of Interest: ** Large Language Models
 
 Programming Language: [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![MS SQL](https://img.shields.io/badge/MS%20SQL-red?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MATLAB](https://img.shields.io/badge/MATLAB-yellow?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
-[![Tableau](https://img.shields.io/badge/Tableau-green?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
+Tools: [![Tableau](https://img.shields.io/badge/Tableau-green?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-blue?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -32,7 +23,7 @@ Programming Language: [![Python](https://img.shields.io/badge/Python-blue?style=
 [![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=flat&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Looker](https://img.shields.io/badge/Looker-ff69b4?style=flat&logo=looker&logoColor=white)](https://looker.com/)
 
-[![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+Libraries: [![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-blue?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
