@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am Kalaiarasi Kaliappan, currently pursuing my majors in Data Science**
+**I am Kalaiarasi Kaliappan, currently pursuing my Master's in Data Science**
 
 **Areas of Interest:** Large Language Models
 
